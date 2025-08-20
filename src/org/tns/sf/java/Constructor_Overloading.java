@@ -1,0 +1,10 @@
+package org.tns.sf.java;
+
+public class Constructor_Overloading {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}
